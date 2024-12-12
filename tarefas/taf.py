@@ -116,5 +116,5 @@ try:
         # Sair    
         if menu == '5':
             break
-except:
-    ...
+except Exception:
+    print('Erro desconhecido!')
