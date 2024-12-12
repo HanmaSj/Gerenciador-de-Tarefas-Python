@@ -118,20 +118,3 @@ try:
             break
 except:
     ...
-
-
-
-
-
-
-# Salve as tarefas em uma lista.
-# Exibir tarefas:
-
-# Liste todas as tarefas, indicando quais estão concluídas.
-# Marcar como concluída:
-
-# Permita que o usuário escolha uma tarefa pelo número para marcá-la como concluída.
-# Excluir tarefas:
-
-# Permita que o usuário escolha uma tarefa pelo número para removê-la da lista.
-# Sair do programa:
